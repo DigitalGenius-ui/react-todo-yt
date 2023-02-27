@@ -1,7 +1,5 @@
 
-# Project Title
-
-Build and Deoploy a full Crude Application made using React JS, TailwindCSS and Emoji Mart
+## Create a complete crude application with React JS, Tailwind CSS, and Emoji Store.
 
 <img src="https://res.cloudinary.com/ghazni/image/upload/v1677469939/portfolio_1_numjnc.png" alt="banner"/>
 
