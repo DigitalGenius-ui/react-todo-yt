@@ -24,7 +24,7 @@ You will discover React JS functionalities, the fundamentals of Tailwind CSS, an
 Developed By Milad Amiri 2023.
 Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844)
 
-## Libraries
+## Technologies 
 
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [TailwindCSS](https://tailwindcss.com/)
