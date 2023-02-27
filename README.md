@@ -3,6 +3,7 @@
 
 Build and Deoploy a full Crude Application made using React JS, TailwindCSS and Emoji Mart
 
+<img src="https://res.cloudinary.com/ghazni/image/upload/v1677469939/portfolio_1_numjnc.png" alt="banner"/>
 
 ## Demo
 [Demo](https://milad-todo.netlify.app/)
